@@ -42,6 +42,8 @@
 | 03 | Expense Tracker | 認証(JWT) / 認可 / PostgreSQL / Alembic / 集計 | [Demo](https://portfolio-03-expense-tracker.vercel.app/) | [Repo](https://github.com/momoka0925/portfolio-03-expense-tracker) |
 | 04 | Image Management | 画像アップロード / Pillow / バックグラウンド処理 / ストレージ抽象化 | [Demo](https://portfolio-04-image-manager.vercel.app/) | [Repo](https://github.com/momoka0925/portfolio-04-image-manager) |
 
+🌐 **ポートフォリオサイト: https://portfolio-website-ten-sigma-26.vercel.app**
+
 ➡ 一覧は **[Portfolio Hub](https://github.com/momoka0925/portfolio)** にまとめています。
 
 **今後の予定**: AI/LLM・RAG（Project 06〜）、Webスクレイピング、業務自動化など、段階的に実務レベルへ。
