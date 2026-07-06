@@ -3,6 +3,10 @@
 **Python バックエンドエンジニア**を目指して、実務を意識したフルスタックアプリを継続的に開発・公開しています。
 「動くものを作る」だけでなく、**設計・テスト・CI/CD・デプロイ・ドキュメント**まで一貫して仕上げることを大切にしています。
 
+- 🔭 **現在取り組み中**: Project 03 – Expense Tracker（JWT認証 / PostgreSQL / 集計）
+- 📌 **今後の予定**: AIチャット、Webスクレイピング、RAG、業務自動化
+- 🎯 **目標**: 2026年、Python バックエンドエンジニアとして実務で活躍する
+
 ---
 
 ## 🛠 使用技術
@@ -46,10 +50,3 @@
 
 ![momoka's GitHub stats](https://github-readme-stats.vercel.app/api?username=momoka0925&show_icons=true&theme=default&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momoka0925&layout=compact&hide_border=true)
-
----
-
-## 🎯 目標
-
-2026年、Python バックエンドエンジニアとして実務で活躍すること。
-そのために「実務で通用する開発プロセス」を意識して開発を続けています。
