@@ -3,8 +3,8 @@
 **Python バックエンドエンジニア**を目指して、実務を意識したフルスタックアプリを継続的に開発・公開しています。
 「動くものを作る」だけでなく、**設計・テスト・CI/CD・デプロイ・ドキュメント**まで一貫して仕上げることを大切にしています。
 
-- 🔭 **現在取り組み中**: Project 04 – URL Shortener（リダイレクト / Analytics）
-- 📌 **今後の予定**: AIチャット、Webスクレイピング、RAG、業務自動化
+- 🔭 **現在取り組み中**: Project 05 – AI / LLM 活用（RAG・ベクトル検索）
+- 📌 **今後の予定**: Webスクレイピング、業務自動化
 - 🎯 **目標**: 2026年、Python バックエンドエンジニアとして実務で活躍する
 
 ---
@@ -40,6 +40,7 @@
 | 01 | Task Management | CRUD / フルスタック基礎 / CI/CD / Docker | [Demo](https://portfolio-01-task-management.vercel.app/) | [Repo](https://github.com/momoka0925/portfolio-01-task-management) |
 | 02 | Weather Dashboard | 外部API連携 / 非同期 / キャッシュ / DTO | [Demo](https://portfolio-02-weather-dashboard.vercel.app/) | [Repo](https://github.com/momoka0925/portfolio-02-weather-dashboard) |
 | 03 | Expense Tracker | 認証(JWT) / 認可 / PostgreSQL / Alembic / 集計 | [Demo](https://portfolio-03-expense-tracker.vercel.app/) | [Repo](https://github.com/momoka0925/portfolio-03-expense-tracker) |
+| 04 | Image Management | 画像アップロード / Pillow / バックグラウンド処理 / ストレージ抽象化 | [Demo](https://portfolio-04-image-manager.vercel.app/) | [Repo](https://github.com/momoka0925/portfolio-04-image-manager) |
 
 ➡ 一覧は **[Portfolio Hub](https://github.com/momoka0925/portfolio)** にまとめています。
 
